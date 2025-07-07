@@ -1,16 +1,12 @@
-# product_app
+# XdizMusic
 
-A new Flutter project.
+XdizMusic adalah aplikasi Android pemutar musik offline ,saat ini aplikasi masih berupa prototipe tampilan UI saja. Aplikasi ini dirancang untuk menampilkan antarmuka daftar lagu dan pemutar musik yang diambil dari API publik, namun belum mengimplementasikan fungsi dari tombol-tombol kontrol musik.
 
-## Getting Started
+## Komponen
+- Daftar Musik dari band Xdinary Heroes
+- Halaman detail pemutaran musik
+- Icon dan tombol kontrol (Play, Next, Previous, Shuffle, Repeat)
+- Audio progress bar
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Catatan
+Aplikasi ini belum bisa memutar musik, tombol-tombol yang ada hanya mockup dan belum bisa berfungsi
