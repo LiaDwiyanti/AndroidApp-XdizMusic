@@ -1,6 +1,6 @@
 # XdizMusic
 
-XdizMusic adalah aplikasi Android pemutar musik offline ,saat ini aplikasi masih berupa prototipe tampilan UI saja. Aplikasi ini dirancang untuk menampilkan antarmuka daftar lagu dan pemutar musik yang diambil dari API publik, namun belum mengimplementasikan fungsi dari tombol-tombol kontrol musik.
+XdizMusic adalah aplikasi Android pemutar musik offline, saat ini aplikasi masih berupa prototipe tampilan UI saja. Aplikasi ini dirancang untuk menampilkan antarmuka daftar lagu dan pemutar musik yang diambil dari API publik, namun belum mengimplementasikan fungsi dari tombol-tombol kontrol musik.
 
 ## Komponen
 - Daftar Musik dari band Xdinary Heroes
